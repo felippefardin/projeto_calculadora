@@ -79,8 +79,6 @@
                 document.getElementById('resultado').innerHTML = "Nada....."
             }
         }
-    </script>
-   
-    
+    </script>    
 </body>
 </html>
