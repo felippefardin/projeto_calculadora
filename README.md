@@ -1,7 +1,3 @@
-# projeto_calculadora
-# Calculadora multifuncional.
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
